@@ -28,3 +28,7 @@ footer ul {
 footer li {
     margin: 5px 10px;
 }
+
+section {
+    border-bottom: 10px solid lightcoral;
+}
