@@ -9,3 +9,16 @@ html { box-sizing: border-box;}
 main {
     border: 3px dotted palevioletred;
 }
+
+footer {
+    background-color: peru;
+}
+
+footer ul {
+    list-style: none;
+    display: flex;
+}
+
+footer li {
+    margin: 5px 10px;
+}
